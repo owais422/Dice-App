@@ -1,4 +1,4 @@
-# ud_project_1
+# Dice Roller App
 
 A new Flutter project.
 
